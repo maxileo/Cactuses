@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="riverton" size="0.130000 0.204188" />
+    <ImageTarget name="ove" size="0.135000 0.198947" />
+    <ImageTarget name="hp4" size="0.129000 0.192855" />
+    <ImageTarget name="Harry_Potter_2" size="0.129000 0.197800" />
+  </Tracking>
+</QCARConfig>
